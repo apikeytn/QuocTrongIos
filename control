@@ -1,0 +1,10 @@
+Package: com.trongquoc.qtrong
+Name: TrongQuoc_
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: TrongQuoc_
+Maintainer: TrongQuoc_
+Author: @TrongQuoc_
+Section: Tweaks
+  
